@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">simranassign</string>
+    <string name="api_key">AIzaSyB0x3UouAkkoxPrN17yi3LUzg2JO2pnFxU</string>
+    <string-array name="mapType">
+        <item>Satelite</item>
+        <item>Default</item>
+        <item>Hybride</item>
+    </string-array>
+    <string-array name="NearBy">
+        <item>Restaurants</item>
+        <item>School</item>
+        <item>Museum</item>
+    </string-array>
+</resources>
